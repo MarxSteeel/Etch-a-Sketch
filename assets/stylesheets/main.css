@@ -1,0 +1,21 @@
+.container {
+    display: block;
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 960px;
+    max-width: 960px;
+    height: 500px;
+    max-height: 500px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    height: 30px;
+    width: 30px;
+    background-color: #07dbada8;
+}
+
